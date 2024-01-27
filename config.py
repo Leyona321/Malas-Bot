@@ -1,2 +1,2 @@
 def config_malasbot():
-	return 'RakuKeyTod'
+	return 'LynaaOffcial'
