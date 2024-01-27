@@ -94,6 +94,8 @@ def menu_bot():
     	• Base64 Encode : /b64encode (string)
     	• Base64 Decode : /b64decode (b64)
     	
-    	©2022 MalasBot - Telegram Bot.
+    	BLINKSS TV OFFC- Telegram Bot.
+
+     copyright © SLC ENTERTAINMENT 
     	
     	'''
